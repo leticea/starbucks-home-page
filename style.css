@@ -68,5 +68,21 @@ body {
 }
 
 .product img {
+  max-width: 100%;
+}
+
+.product {
+  display: flex;
+}
+
+.product-left,
+.product-right {
   max-width: 50%;
+  width: 50%;
+}
+
+.product-title {
+  width: 100%;
+  text-align: center;
+  color: #fff;
 }
