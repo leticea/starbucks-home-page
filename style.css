@@ -1,0 +1,17 @@
+body {
+  margin: 0px;
+  font-family: "SoDo Sans SemiBold", Arial, Helvetica, sans-serif
+}
+
+.navbar {
+  padding: 20px;
+}
+
+.navbar-left svg {
+  width: 50px;
+}
+
+.navbar-left div {
+  text-transform: uppercase;
+  font-weight: 600;
+}
