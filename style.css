@@ -5,13 +5,24 @@ body {
 
 .navbar {
   padding: 20px;
+  font-size: 14px;
 }
 
 .navbar-left svg {
   width: 50px;
+  margin-right: 20px;
 }
 
 .navbar-left div {
   text-transform: uppercase;
   font-weight: 600;
+}
+
+.navbar-left {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-left > * {
+  padding: 10px;
 }
