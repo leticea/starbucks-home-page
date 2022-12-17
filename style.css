@@ -85,4 +85,23 @@ body {
   width: 100%;
   text-align: center;
   color: #fff;
+  margin: 20px;  
+}
+
+.product-button {
+  border: 1px solid #fff;
+  max-width: max-content;
+  padding: 5px 20px 5px 20px;
+  border-radius: 40px;
+  text-align: center;
+  margin: auto;
+}
+
+.product-button-white {
+  color: #fff;
+}
+
+.product-button-black {
+  color: black;
+  border-color: black;
 }
