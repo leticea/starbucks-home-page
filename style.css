@@ -69,6 +69,8 @@ body {
 
 .product img {
   max-width: 100%;
+  object-fit: cover;
+  height: 100%;
 }
 
 .product {
@@ -85,7 +87,7 @@ body {
   width: 100%;
   text-align: center;
   color: #fff;
-  margin: 20px;  
+  margin: auto;  
 }
 
 .product-button {
@@ -95,6 +97,8 @@ body {
   border-radius: 40px;
   text-align: center;
   margin: auto;
+  margin-bottom: 30px;
+
 }
 
 .product-button-white {
@@ -104,4 +108,10 @@ body {
 .product-button-black {
   color: black;
   border-color: black;
+}
+
+.product-description {
+  text-align: center;
+  padding: 30px 60px 30px 60px;
+  font-size: 18px;
 }
