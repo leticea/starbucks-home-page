@@ -85,17 +85,19 @@ body {
 .product-left,
 .product-right {
   max-width: 50%;
+  display: flex;
   width: 50%;
   align-items: center;
   justify-content: center;
   height: 100%;
+  align-items: stretch;
+  flex-direction: column;
 }
 
 .product-title {
   width: 100%;
   text-align: center;
   color: #fff;
-  margin: auto;  
 }
 
 .product-container {
