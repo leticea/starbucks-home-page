@@ -67,6 +67,11 @@ body {
   background-color: rgba(0, 0, 0, 0.06);
 }
 
+.container {
+  max-width: 1440px;
+  margin: auto;
+}
+
 .product img {
   max-width: 100%;
   object-fit: contain;
@@ -117,4 +122,9 @@ body {
   text-align: center;
   padding: 30px 60px 30px 60px;
   font-size: 18px;
+}
+
+.footer {
+  padding: 50px;
+  text-align: center;
 }
