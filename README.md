@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto desenvolvido com CSS.
+Projeto desenvolvido com CSS e HTML.
 
 Aula do canal [Servet Gulnaroglu](https://www.youtube.com/watch?v=yFcDHCOAue0)
 
