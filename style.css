@@ -32,6 +32,7 @@ body {
 .navbar-left div:hover,
 .find-a-store:hover {
   color: #00754a;
+  cursor: pointer;
 }
 
 .navbar-left,
@@ -57,6 +58,7 @@ body {
   border: 1px solid black;
   border-radius: 40px;
   padding: 5px 20px 5px 20px;
+  cursor: pointer;
 }
 
 .join-now {
